@@ -6,9 +6,9 @@
 - 📫 How to reach me: louati.oussama@ine.inpt.ma
 
 <!--
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ossamalouati&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ossamalouati&count_private=true&theme=tokyonight&showicons=true)]()-->
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ossamalouati&langs_count=5&theme=tokyonight)]()
--->
+
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api/?username=ossamalouati&count_private=true&theme=tokyonight&showicons=true" /> </p>
 
