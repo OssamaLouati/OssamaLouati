@@ -1,4 +1,5 @@
-![](https://komarev.com/ghpvc/?username=OssamaLouati)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ossamalouati&label=Profile%20views&color=0e75b6&style=flat" alt="ossamalouati" /> </p>
+
 
 
 ### Hi there 👋:
@@ -8,6 +9,18 @@
 - 👯 I’m looking for interesting open Source Software Developement and Machine learning projects to contribute to.
 - 👨‍💻 My Portfolio is available at [ossamalouati.github.io](ossamalouati.github.io)
 - 📫 How to reach me: louati.oussama@ine.inpt.ma
+
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api/?username=ossamalouati&count_private=true&theme=tokyonight&showicons=true" /> </p>
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ossamalouati&langs_count=5&theme=tokyonight" /> </p>
+
+<p align="center"> 
+  <a href="https://linkedin.com/in/oussama-louati-835a51218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oussama-louati-835a51218" height="30" width="40" /></a>     
+  <a href="https://instagram.com/oussama__louati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oussama__louati" height="30" width="40" /></a>
+</p>
+
+
 <h4 align="left">Programming Languages</h3>
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -45,14 +58,3 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-
-<p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api/?username=ossamalouati&count_private=true&theme=tokyonight&showicons=true" /> </p>
-<p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ossamalouati&langs_count=5&theme=tokyonight" /> </p>
-
-
-<p align="center"> 
-  <a href="https://linkedin.com/in/oussama-louati-835a51218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oussama-louati-835a51218" height="30" width="40" /></a>     
-  <a href="https://instagram.com/oussama__louati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oussama__louati" height="30" width="40" /></a>
-</p>
