@@ -18,6 +18,6 @@
 
 
 <p align="center"> 
-<a href="https://www.linkedin.com/in/oussama-louati-835a51218/" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="https://www.linkedin.com/in/oussama-louati-835a51218/" height="25" width="25" /></a>     
-<a href="https://www.instagram.com/oussama__louati" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="@oussama_louati" height="25" width="25" /></a>
+  <a href="https://www.linkedin.com/in/oussama-louati-835a51218/" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="https://www.linkedin.com/in/oussama-louati-835a51218/" height="25" width="25" /></a>     
+  <a href="https://www.instagram.com/oussama__louati" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="@oussama_louati" height="25" width="25" /></a>
 </p>
