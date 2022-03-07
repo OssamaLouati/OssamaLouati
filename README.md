@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=OssamaLouati)
+
 ### Hi there 👋:
 
 - 🔭 I’m currently working on Web Developement and UI/UX design as a part of my 1st year's final project "PFA" at <a href="www.inpt.ac.ma">INPT</a>.
