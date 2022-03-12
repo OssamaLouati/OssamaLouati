@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oussama Louati</h1>
 
-<h3 align="center">A Self-Taught Web Developer , a Software Engineering Student and a IT Enthusiast!</h3>
+<h3 align="center">A Self-Taught Web Developer , a Software Engineering Student and a IT Enthusiast !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ossamalouati&label=Profile%20views&color=0e75b6&style=flat" alt="ossamalouati" /> </p>
 
