@@ -1,8 +1,8 @@
+<h1 align="center">Hi 👋, I'm Oussama Louati</h1>
+
+<h3 align="center">A Self-Taught Web Developer , a Software Engineering Student and a IT Enthusiast!</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ossamalouati&label=Profile%20views&color=0e75b6&style=flat" alt="ossamalouati" /> </p>
-
-
-
-### Hi there 👋:
 
 - 🔭 I’m currently working on Web Developement and UI/UX design as a part of my 1st year's final project "PFA" at <a href="http://www.inpt.ac.ma" target="_blank">INPT</a>.
 - 🌱 I’m currently learning everything about <strong>Software Engineering</strong> (JAVA developement, Web Frameworks), also i'm passionate about Machine Learning, Applied Statistics, Database Management System 'Oracle' .
