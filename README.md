@@ -9,13 +9,14 @@
 - 👯 I’m looking for interesting open Source Software Developement and Machine learning projects to contribute to.
 - 👨‍💻 My Portfolio is available at [ossamalouati.github.io](https://ossamalouati.github.io/)
 - 📫 How to reach me: louati.oussama@ine.inpt.ma
+<h2 align="left">My Github stats</h2>
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api/?username=ossamalouati&count_private=true&theme=tokyonight&showicons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ossamalouati&langs_count=5&theme=tokyonight" /> 
+</p>
 
-<p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api/?username=ossamalouati&count_private=true&theme=tokyonight&showicons=true" /> </p>
-<p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ossamalouati&langs_count=5&theme=tokyonight" /> </p>
-
-<p align="center"> 
+<h2 align="left">You can find me in</h2>
+<p> 
   <a href="https://linkedin.com/in/oussama-louati-835a51218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oussama-louati-835a51218" height="30" width="40" /></a>     
   <a href="https://instagram.com/oussama__louati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oussama__louati" height="30" width="40" /></a>
 </p>
