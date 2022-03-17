@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Web Developement and UI/UX design as a part of my 1st year's final project "PFA" at <a href="http://www.inpt.ac.ma" target="_blank">INPT</a>.
 - 🌱 I’m currently learning everything about <strong>Software Engineering</strong> (JAVA developement, Web Frameworks), also i'm passionate about Machine Learning, Applied Statistics, Database Management System 'Oracle' .
-- 👨‍💻 My Portfolio is available at [ossamalouati.github.io](https://ossamalouati.github.io/)
+- 👨‍💻 You can find my personnal website right<a href="https://ossamalouati.github.io" target="_blank"> here ! </a>.
 - 📫 How to reach me: louati.oussama@ine.inpt.ma
 <h2 align="left">My Github stats</h2>
 <p align="center"> 
