@@ -2,17 +2,28 @@
 
 <h3 align="center">A Self-Taught Web Developer , a Software Engineering Student and an IT Enthusiast !</h3>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Web+Developer;UX/UI+Enthusiast;Open+Source+Lover%20&center=true&width=500&height=50"></a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ossamalouati&label=Profile%20views&color=0e75b6&style=flat" alt="ossamalouati" /> </p>
 
+-  :school: I am a `first year` `Software Engineering Student` at the National Institute of Posts and Telecommunications (INPT), Morocco.
 - 🔭 I’m currently working on Web Developement and UI/UX design as a part of my 1st year's final project "PFA" at <a href="http://www.inpt.ac.ma" target="_blank">INPT</a>.
 - 🌱 I’m currently learning everything about <strong>Software Engineering</strong> (JAVA developement, Web Frameworks), also i'm passionate about Machine Learning, Applied Statistics, Database Management System 'Oracle' .
 - 👨‍💻 You can find my personnal website<a href="https://ossamalouati.github.io" target="_blank"> here </a>.
 - 📫 How to reach me: louati.oussama@ine.inpt.ma
 <h2 align="left">My Github stats</h2>
 <p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api/?username=ossamalouati&count_private=true&theme=tokyonight&showicons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ossamalouati&langs_count=5&theme=tokyonight" /> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ossamalouati&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ossamalouati" />
 </p>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/?username=ossamalouati&count_private=true&theme=tokyonight&showicons=true" />
+</p>
+⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/ossamalouati"><img alt="Louatii's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ossamalouati&custom_title=OssamaLouati's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
 
 <h2 align="left">You can find me in</h2>
 <p> 
@@ -71,4 +82,5 @@
 </p>
   </li>
 </ul>
+
 
