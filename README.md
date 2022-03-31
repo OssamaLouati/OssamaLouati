@@ -17,7 +17,7 @@
 <p align="center"> 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ossamalouati&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ossamalouati" />
 </p>
-<br>
+
 
 <p >
  <img src="https://github-readme-stats.vercel.app/api/?username=ossamalouati&count_private=true&theme=tokyonight&showicons=true" />
