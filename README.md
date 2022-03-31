@@ -22,16 +22,12 @@
 <p >
  <img src="https://github-readme-stats.vercel.app/api/?username=ossamalouati&count_private=true&theme=tokyonight&showicons=true" />
 </p>
-
-<p align="center">
-  <i>Random dev joke for you!</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
-  </p>
-
 ⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/ossamalouati"><img alt="Louatii's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ossamalouati&custom_title=OssamaLouati's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
+  
+  
 
 <h2 align="left">You can find me in</h2>
 <p> 
@@ -90,5 +86,10 @@
 </p>
   </li>
 </ul>
+
+<p align="center">
+  <i>Random dev joke for you!</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+  </p>
 
 
