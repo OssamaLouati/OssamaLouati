@@ -19,8 +19,7 @@
 
 <h2 align="left">You can find me in</h2>
 <p> 
-  <a href="https://linkedin.com/in/oussama-louati-835a51218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oussama-louati-835a51218" height="30" width="40" /></a>     
-  <a href="https://instagram.com/oussama__louati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oussama__louati" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/khouloud-taouchikht-406a4b218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khouloud-taouchikht-406a4b218" height="30" width="40" /></a>     
 </p>
 
 <h2 align="left">Skills</h2>
