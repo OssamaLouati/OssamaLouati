@@ -13,19 +13,7 @@
 - 🌱 I’m currently learning everything about <strong>Software Engineering</strong> (JAVA developement, Web Frameworks), also i'm passionate about Machine Learning, Applied Statistics, Database Management System 'Oracle' .
 
 - 📫 How to reach me: taoukhouloud@gmail.com
-<h2 align="left">My Github stats</h2>
-<p align="center"> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ossamalouati&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ossamalouati" />
-</p>
 
-
-<p >
- <img src="https://github-readme-stats.vercel.app/api/?username=ossamalouati&count_private=true&theme=tokyonight&showicons=true" />
-</p>
-⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/ossamalouati"><img alt="Louatii's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ossamalouati&custom_title=OssamaLouati's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
   
   
 
@@ -67,7 +55,6 @@
 <p align="left">   
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-   
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
   </li>
