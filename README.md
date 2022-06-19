@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oussama Louati</h1>
+<h1 align="center">Hi 👋, I'm Khouloud Taouchikht</h1>
 
 <h3 align="center">A Self-Taught Web Developer , a Software Engineering Student and an IT Enthusiast !</h3>
 
@@ -11,8 +11,8 @@
 -  :school: I am a `first year` `Software Engineering Student` at the National Institute of Posts and Telecommunications (INPT), Morocco.
 - 🔭 I’m currently working on Web Developement and UI/UX design as a part of my 1st year's final project "PFA" at <a href="http://www.inpt.ac.ma" target="_blank">INPT</a>.
 - 🌱 I’m currently learning everything about <strong>Software Engineering</strong> (JAVA developement, Web Frameworks), also i'm passionate about Machine Learning, Applied Statistics, Database Management System 'Oracle' .
-- 👨‍💻 You can find my personnal website<a href="https://ossamalouati.github.io" target="_blank"> here </a>.
-- 📫 How to reach me: louati.oussama@ine.inpt.ma
+
+- 📫 How to reach me: taoukhouloud@gmail.com
 <h2 align="left">My Github stats</h2>
 <p align="center"> 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ossamalouati&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ossamalouati" />
@@ -67,7 +67,7 @@
 <p align="left">   
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+   
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
   </li>
