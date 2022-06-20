@@ -6,7 +6,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Web+Developer;UX/UI+Enthusiast;Open+Source+Lover%20&center=true&width=500&height=50"></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ossamalouati&label=Profile%20views&color=0e75b6&style=flat" alt="ossamalouati" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=taouchikhtkhouloud&label=Profile%20views&color=0e75b6&style=flat" alt="taouchikhtkhouloud" /> </p>
 
 -  :school: I am a `first year` `Software Engineering Student` at the National Institute of Posts and Telecommunications (INPT), Morocco.
 - 🔭 I’m currently working on Web Developement and UI/UX design as a part of my 1st year's final project "PFA" at <a href="http://www.inpt.ac.ma" target="_blank">INPT</a>.
