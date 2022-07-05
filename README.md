@@ -14,8 +14,9 @@
 - 👨‍💻 You can find my personnal website<a href="https://ossamalouati.github.io" target="_blank"> here </a>.
 - 📫 How to reach me: louatioussama06@gmail.com | louati.oussama@ine.inpt.ma
 <h2 align="left">My Github stats</h2>
+
 <p align="center"> 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ossamalouati=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  <img alt="Oussama Louati Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ossamalouati&langs_count=7" />
 </p>
 
 
