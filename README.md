@@ -13,13 +13,19 @@
 - 🌱 I’m currently learning everything about <strong>Software Engineering</strong> (JAVA developement, Web Frameworks), also i'm passionate about Machine Learning, Applied Statistics, Database Management System 'Oracle' .
 - 👨‍💻 You can find my personnal website<a href="https://ossamalouati.github.io" target="_blank"> here </a>.
 - 📫 How to reach me: louatioussama06@gmail.com | louati.oussama@ine.inpt.ma
+
+<br/>
+
 <h2 align="left">My Github stats</h2>
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/?username=ossamalouati&count_private=true&theme=tokyonight&showicons=true" />
+<p align="left">
+<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=ossamalouati&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="oussamalouati" />
 </p>
-<p align="center"> 
-  <img alt="Oussama Louati Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ossamalouati&langs_count=7" />
-</p>
+<p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=ossamalouati&layout=compact&theme=radical&hide_border=true" alt="ossamalouati" /></p>
+
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+
 
 
 
