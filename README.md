@@ -14,22 +14,14 @@
 - 👨‍💻 You can find my personnal website<a href="https://ossamalouati.github.io" target="_blank"> here </a>.
 - 📫 How to reach me: louatioussama06@gmail.com | louati.oussama@ine.inpt.ma
 
-<br/>
-
-<h2 align="left">My Github stats</h2>
+<h2 align="left">My GitHub Stats</h2>
 <p align="left">
 <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=ossamalouati&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="oussamalouati" />
 </p>
 <p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=ossamalouati&layout=compact&theme=radical&hide_border=true" alt="ossamalouati" /></p>
 
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-
-
-
-
-⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/ossamalouati"><img alt="Louatii's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ossamalouati&custom_title=OssamaLouati's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
