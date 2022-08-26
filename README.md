@@ -15,8 +15,8 @@
 - 📫 How to reach me: louatioussama06@gmail.com | louati.oussama@ine.inpt.ma
 
 <h2 align="left">My GitHub Stats</h2>
-<p align="left">
-<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=ossamalouati&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="oussamalouati" />
+
+<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=ossamalouati&show_icons=true&include_all_commits=trueshow_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="oussamalouati" />
 </p>
 <p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=ossamalouati&layout=compact&theme=radical&hide_border=true" alt="ossamalouati" /></p>
 
