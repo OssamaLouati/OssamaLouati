@@ -20,8 +20,8 @@
 </p>
 <p align="right"><img align="right" width:"45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ossamalouati&layout=compact&theme=radical&hide_border=false&line_height=30&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ossamalouati" /></p>
 
-
-
+<br/>
+<br/>
   <br/>
    <a href="https://github.com/ossamalouati"><img alt="Louatii's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ossamalouati&custom_title=OssamaLouati's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
