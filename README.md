@@ -18,13 +18,6 @@
 - 👨‍💻 You can find my personnal website<a href="https://ossamalouati.github.io" target="_blank"> here </a>.
 - 📫 How to reach me: louatioussama06@gmail.com | louati.oussama@ine.inpt.ma
   
-  <br>
-  <p align="center">
-  <a href="mailto:louatioussama06@gmail.com?subject=Olá%20From%20github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100063144627136"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/oussama__louati/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/louatioussama/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
   
 
 <h2 align="left">My GitHub Stats</h2>
@@ -41,9 +34,12 @@
   
 
 <h2 align="left">You can find me in</h2>
-<p> 
-  <a href="https://linkedin.com/in/oussama-louati-835a51218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oussama-louati-835a51218" height="30" width="40" /></a>     
-  <a href="https://instagram.com/oussama__louati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oussama__louati" height="30" width="40" /></a>
+
+  <p align="left">
+  <a href="mailto:louatioussama06@gmail.com?subject=Olá%20From%20github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/profile.php?id=100063144627136"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/oussama__louati/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/louatioussama/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <h2 align="left">Skills</h2>
