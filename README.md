@@ -46,12 +46,13 @@
 <ul>
   <li>
 <h4 align="left">Programming Languages:</h3>
-<p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-</p>
+    <img alt="Python" src="https://img.shields.io/badge/Python-000.svg?logo=python&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/JS-000.svg?style=for-the-badge&logo=javascript"/>
+    <img src="https://img.shields.io/badge/TS-000.svg?style=for-the-badge&logo=typescript"/>
+    <img alt="R" src="https://img.shields.io/badge/-R-000.svg?logo=r&logoColor=blue&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/PHP-000.svg?style=for-the-badge&logo=php"/>
+    <img src="https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=java&logoColor=ed8b00"/>
+    <img alt="C++" src="https://img.shields.io/badge/c++-000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=2a518c"/>
   </li>
   <li>
 <h4 align="left">Frontend Development:</h3>
