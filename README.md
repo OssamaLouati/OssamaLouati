@@ -6,11 +6,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Web+Developer;UX/UI+Enthusiast;Open+Source+Lover%20&center=true&width=500&height=50"></a>
 </p>
 
-<p align="center">
+<p align="left">
    <img src="https://komarev.com/ghpvc/?username=ossamalouati&style=for-the-badge&color=130F60" />
 <p>
-<br>
-  
+
   
 -  :school: I am a `second year` `Software Engineering Student` at the National Institute of Posts and Telecommunications (INPT), Morocco.
 - 🔭 I’m currently working on full stack Web Developement and UI/UX design  at <a href="http://www.inpt.ac.ma" target="_blank">INPT</a>.
