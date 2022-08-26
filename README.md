@@ -6,8 +6,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Web+Developer;UX/UI+Enthusiast;Open+Source+Lover%20&center=true&width=500&height=50"></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ossamalouati&label=Profile%20views&color=0e75b6&style=flat" alt="ossamalouati" /> </p>
-
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=ossamalouati&style=for-the-badge&color=130F60" />
+<p>
+<br>
+  
+  
 -  :school: I am a `second year` `Software Engineering Student` at the National Institute of Posts and Telecommunications (INPT), Morocco.
 - 🔭 I’m currently working on full stack Web Developement and UI/UX design  at <a href="http://www.inpt.ac.ma" target="_blank">INPT</a>.
 - 🌱 I’m currently learning everything about <strong>Software Engineering</strong> (JAVA developement, Web Frameworks), also i'm passionate about Machine Learning, Applied Statistics, Database Management System 'Oracle' .
@@ -16,11 +20,8 @@
 
 <h2 align="left">My GitHub Stats</h2>
 
-<p align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=ossamalouati&show_icons=true&include_all_commits=trueshow_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="oussamalouati" />
-</p>
-
-<p align="right"><img align="right"  width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ossamalouati&layout=compact&theme=radical&hide_border=false&line_height=30&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ossamalouati" /></p>
-
+![Oussama's GitHub stats](https://github-readme-stats.vercel.app/api?username=ossamalouati&show_icons=true&include_all_commits=trueshow_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ossamalouati&layout=compact&theme=radical&hide_border=false&line_height=30&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
 
 <br>
    <a href="https://github.com/ossamalouati"><img alt="Louatii's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ossamalouati&custom_title=OssamaLouati's%20Contribution%20Graph&theme=react-dark" /></a>
