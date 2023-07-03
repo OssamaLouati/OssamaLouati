@@ -19,14 +19,6 @@
   
   
 
-<h2 align="left">My GitHub Stats</h2>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ossamalouati&count_private=true&show_icons=true&langs_count=6&layout=compact&theme=radical&hide_border=false&line_height=30&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
-![Oussama's GitHub stats](https://github-readme-stats.vercel.app/api?username=ossamalouati&count_private=true&show_icons=true&include_all_commits=trueshow_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
-
-
-
 
   
   
