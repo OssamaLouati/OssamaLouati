@@ -11,7 +11,7 @@
 <p>
 
   
--  :school: I am a `second year` `Software Engineering Student` at the National Institute of Posts and Telecommunications (INPT), Morocco.
+-  :school: I am a `final year` `Software Engineering Student` at the National Institute of Posts and Telecommunications (INPT), Morocco.
 - 🔭 I’m currently working on full stack Web Developement and UI/UX design  at <a href="http://www.inpt.ac.ma" target="_blank">INPT</a>.
 - 🌱 I’m currently learning everything about <strong>Software Engineering</strong> (JAVA developement, Web Frameworks), also i'm passionate about Machine Learning, Applied Statistics, Database Management System 'Oracle' .
 - 👨‍💻 You can find my personnal website<a href="https://ossamalouati.github.io" target="_blank"> here </a>.
