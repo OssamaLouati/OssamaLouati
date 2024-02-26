@@ -8,20 +8,7 @@
 
 <p align="left">
    <img src="https://komarev.com/ghpvc/?username=ossamalouati&style=for-the-badge&color=130F60" />
-<p>
-
-  
--  :school: I am a `final year` `Software Engineering Student` at the National Institute of Posts and Telecommunications (INPT), Morocco.
-- 🔭 I’m currently working on full stack Web development/java development and UI/UX design  at <a href="http://www.inpt.ac.ma" target="_blank">INPT</a>.
-- 🌱 I’m currently learning everything about <strong>Software Engineering</strong> (JAVA developement, Web Frameworks), also i'm passionate about Machine Learning, Applied Statistics, Database Management System 'Oracle' .
-- 👨‍💻 You can find my personnal website<a href="https://ossamalouati.github.io" target="_blank"> here </a>.
-- 📫 How to reach me: louatioussama06@gmail.com | louati.oussama@ine.inpt.ma
-  
-  
-
-
-  
-  
+<p>  
 
 <h2 align="left">You can find me in</h2>
 
